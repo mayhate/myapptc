@@ -23,7 +23,7 @@
 <key>kind</key>
 <string>full-size-image</string>
 <key>url</key>
-<string>https://github.com/mayhate/myapptc/blob/master/logo512.png?raw=true</string>
+<string>https://raw.githubusercontent.com/mayhate/myapptc/master/logo512.png</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -31,11 +31,11 @@
 <key>bundle-identifier</key>
 <string>天成游戏</string>
 <key>bundle-version</key>
-<string>2.5.3</string>
+<string>2.0.3</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>下载时提示是否安装改应用的应用名字</string>
+<string>天成游戏</string>
 </dict>
 </dict>
 </array>
